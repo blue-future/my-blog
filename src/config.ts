@@ -20,7 +20,7 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE =8;//设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "title",
+	title: "nihao",
 	subtitle: "One demo website",
 
 	timeZone: SITE_TIMEZONE,
